@@ -1,0 +1,5 @@
+###### Required PyPI packages ######
+markup
+
+###### Required Github packages ######
+git+git://github.com/jkbr/httpie.git#egg=httpie
